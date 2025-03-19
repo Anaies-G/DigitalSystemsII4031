@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega64"</DEVICE>
+ <WORKING_DIR>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Atmel\New folder\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>E:\Atmel\New folder\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Atmel\New folder\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m64def.inc</FILE>
+  <FILE>E:/Atmel\New folder\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\M64DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\Debug\Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Project.map</FILE>
+  <FILE>Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>14</LINE></Main>
+  <INT5_ISR><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>54</LINE></INT5_ISR>
+  <ready_1s><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>59</LINE></ready_1s>
+  <Loop><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>50</LINE></Loop>
+  <ev_1s_end><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>67</LINE></ev_1s_end>
+  <checkFlag><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>69</LINE></checkFlag>
+  <checkFlag_end><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>73</LINE></checkFlag_end>
+  <ready_5s><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>76</LINE></ready_5s>
+  <forEnd><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>84</LINE></forEnd>
+  <ready_5s_end><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>92</LINE></ready_5s_end>
+  <clearAll><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>138</LINE></clearAll>
+  <play><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>94</LINE></play>
+  <red><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>119</LINE></red>
+  <green><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>110</LINE></green>
+  <yellow><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>104</LINE></yellow>
+  <tryagain><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>125</LINE></tryagain>
+  <EndGame><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>134</LINE></EndGame>
+  <loss><FILE>C:\Users\Asus\Desktop\sems5\Digital systems 2\Project\Atmel files\Project\Project\main.asm</FILE><LINE>130</LINE></loss>
+ </LABELS>
+</ASSEMBLER_INFO>
